@@ -6,40 +6,40 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/virtualunionsex/fsub3news",
+  "repository": "https://github.com/petinggint/fsub3news",
   "logo": "https://telegra.ph/file/c9458fe65e5aa9714b191.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
-      "value": ""
+      "value": "8006646597:AAF9mQL66wsg4VTEAThLWn3n8cUk16t5lUc"
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "sanyagesya"
+      "value": "syaaaallweb"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Tele untuk Owner BOT",
-      "value": "1971239428"
+      "value": "7461183106"
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
-      "value": ""
+      "value": "7461183106"
     },
     "APP_ID": {
       "description": "Dapatkan APP ID di web my.telegram.org",
-      "value": ""
+      "value": "13261150"
     },
     "API_HASH": {
       "description": "Dapatkan API HASH di web my.telegram.org",
-      "value": ""
+      "value": "64fe89043e67bc994eb5ae95f081e57a"
     },
     "CHANNEL_ID": {
       "description": "Masukan ID Channel Untuk [Channel Database]",
-      "value": "-100"
+      "value": "-1002677755125"
     },
     "FORCE_SUB_CHANNEL": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
-      "value": "-100"
+      "value": "-1002821282234"
     },
     "FORCE_SUB_CHANNEL1": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
@@ -47,7 +47,7 @@
     },
     "FORCE_SUB_GROUP": {
       "description": "Masukan ID dari Group Untuk Wajib Subscribenya",
-      "value": "-100"
+      "value": "-1002553492693"
     },
     "START_MESSAGE": {
       "description": "Pesan /start memulai awalan ke bot, Gunakan format parsemode HTML",
@@ -59,12 +59,12 @@
     },
     "CHANNEL":{
       "description": "Masukan Username Channel anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "ttgslsb",
+      "value": "OFFICIALSYAAA",
       "required": false
     },
     "GROUP":{
       "description": "Masukan Username dari Group anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "demusplace",
+      "value": "OFFICIALSYAAA",
       "required": false
    } 
   },
@@ -72,7 +72,7 @@
     {
     "plan": "heroku-postgresql",
       "options": {
-        "version": "12"
+        "version": "14"
       }
     }
   ],
